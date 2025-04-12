@@ -1,0 +1,35 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "sourcePath&Sequence_12",
+        "destinationFolder&Sequence_12",
+        "newFilename&Sequence_12",
+        "newFilePath&Sequence_12",
+        "projectName&Sequence_12",
+        "userUnit&Sequence_6",
+        "userQty&Sequence_6",
+        "cellAddress&Sequence_8",
+        "requestedBy&Sequence_4",
+        "userItem&Sequence_4",
+        "startingRow&Sequence_4",
+        "exitLoop&Sequence_4",
+        "maxItems&Sequence_4",
+        "counter&Sequence_4"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

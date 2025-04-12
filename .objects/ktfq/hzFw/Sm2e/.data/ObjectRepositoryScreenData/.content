@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="flNRXbEl4UmuXZfmi4EKUg" Reference="eU9IaPH-BU29FVFFYakeXg/Sm2eop4WE06qAZf0-qIF3w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="153, 153, 1025, 519" Arguments="[newFilePath]" ContentHash="6wUb4DsZN06Ex_DrtUSWhg" FilePath="C:\Program Files\Microsoft Office\root\Office16\excel.exe" IconBase64="iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGqSURBVFhH7Zc/SMNAFMa7itLWf6U6WDKIIKWgIoWCYFwEsZM4CMXNIoKIiyB0ERw6OIl1E4TippuCk4vF0Tg5Ck6OCg6OT17gQvhe7DXxAlL84EfTy919X+/dkTSR+JdGVrPqWM0qdcpM6yAMDvoJoYGOAJO2oJ8QGuhAAx3oJ4QGOtBAB/oJoYEONNCBfkJjxxXSkWusRw+QrtlOumZTFPr35ml403ZD/CaAmDgMPYvjlNwped+xJDr+VoDcYZnuX55c9m9OvPa5xobXztexBWBOHy6J9fH16QbiNjZm8Sf2Nx6ATdmcVb87p+WzXfeaVThaiz8As3VV91ZB/XoOg/1iC8AoY9br+5u4H3uA6+eWFyCo9orkbI4yK1OUrRRd8L6OwACq7lwCtR+4LNiPMR6ANyEvOYvrzqgw6lT4MR4g6BiqQBePt2ICowH8R86/5OpUsLiPf4zRAFHoigCRH8ep7ZIIEBZ8/xDqnRyhn+jLj1KqaMUbYGBhgnRkVqfFxJ2CfkKDS3lqx1C5ICYNA/oJ4QDToJ8QDjAN+gllK0UHBxlE/9es6/UNu4lLIFrb/iwAAAAASUVORK5CYII=" Reference="eU9IaPH-BU29FVFFYakeXg/Sm2eop4WE06qAZf0-qIF3w" Selector="&lt;wnd app='excel.exe' cls='XLMAIN' title='Excel' /&gt;" Version="V2">
+      <imageRef attrName="InformativeScreenshot" originalValue="3df739557b3bf40daf5d3a4faac05704.png" xmlns="">03FUh0vyKOE-mhbk5fp5QYQ</imageRef>
+    </TargetApp>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData Name="newFilePath" />
+    </scg:List>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

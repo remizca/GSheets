@@ -6,6 +6,7 @@
   "dependencies": {
     "UiPath.Excel.Activities": "[2.25.1-preview]",
     "UiPath.System.Activities": "[25.2.1]",
+    "UiPath.UIAutomation.Activities": "[25.2.1-preview]",
     "UiPathTeam.Excel.Extensions.Activities": "[2.1.2]",
     "UiPathTeam.ExcelUtility.Activities": "[2.0.0]",
     "UiPathTeam.MSExcel.Activities": "[1.0.8]"
